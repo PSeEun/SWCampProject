@@ -12,3 +12,4 @@
 >> 김해인 박세은 최세영 황유연
 
 ## 토큰 이코노미
+![untitled](https://user-images.githubusercontent.com/43868516/46522622-d038a400-c872-11e8-9e34-a080b02f873e.png)
